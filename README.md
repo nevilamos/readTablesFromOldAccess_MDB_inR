@@ -1,4 +1,4 @@
-# readTablesFromOldAccess_MDB_inR
+# readTablesFromOldAccess_MDB_in_R
 
 This R script was created to read results from the microsoft access mdb created by the genetic analysis program MolKin (Guiterez et.al 2005). Recent versions of MSAccess cannot read the file directly.  This process uses R and ODBC drivers to enable extraction of all the database tables to .csv files without the need of MS Access.
 
